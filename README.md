@@ -28,7 +28,7 @@ For reviewers:
 4. Please check the specific README in each assignment folder for detailed requirements
 
 ## Learning Progress
-- [ ] Basic Python Syntax
+- [-] Basic Python Syntax
 - [ ] Data Structures
 - [ ] Object-Oriented Programming
 - [ ] File Handling
