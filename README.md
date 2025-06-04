@@ -15,10 +15,10 @@ This repository contains my Python learning journey and assignment submissions. 
 
 ## Assignments
 Each assignment folder contains:
-- Source code files (`.py`)
-- Required documentation
-- Any additional resources or data files
-- README with specific assignment details
+1. Source code files (`.py`)
+2. Required documentation
+3. Any additional resources or data files
+4. README with specific assignment details
 
 ## Review Guidelines
 For reviewers:
@@ -28,12 +28,12 @@ For reviewers:
 4. Please check the specific README in each assignment folder for detailed requirements
 
 ## Learning Progress
-- [-] Basic Python Syntax
-- [ ] Data Structures
-- [ ] Object-Oriented Programming
-- [ ] File Handling
-- [ ] Error Handling
-- [ ] Advanced Topics
+1. [-] Basic Python Syntax
+2. [ ] Data Structures
+3. [ ] Object-Oriented Programming
+4. [ ] File Handling
+5. [ ] Error Handling
+6. [ ] Advanced Topics
 
 ## Contact
 Feel free to reach out for any questions or feedback about the assignments.
